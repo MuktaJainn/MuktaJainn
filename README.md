@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN STACK and Web3.
 - 🌱 I’m currently learning MERN STACK.
 - 📫 You can mail me at : jain.mukta20032002@gmail.com.
-- Connect with me on Twitter : <https://twitter.com/HeyMuktahere>
+- Connect with me on Twitter(“X”) : <https://twitter.com/HeyMuktahere>
 
 
 <!---

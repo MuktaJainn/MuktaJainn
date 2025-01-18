@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuktaJainn.
+- 👋 Hi, I’m Mukta.
 - 👀 I’m interested in evrything that's data related.
 - 🌱 I’m currently learning Data Analytics.
 - 📫 You can mail me at : jain.mukta20032002@gmail.com.

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MuktaJainn.
-- 👀 I’m interested in MERN STACK and Web3.
-- 🌱 I’m currently learning MERN STACK.
+- 👀 I’m interested in evrything that is Data related.
+- 🌱 I’m currently learning Data Analytics.
 - 📫 You can mail me at : jain.mukta20032002@gmail.com.
-- Connect with me on Twitter(“X”) : <https://twitter.com/usbhaaaiius>
 
 
 <!---

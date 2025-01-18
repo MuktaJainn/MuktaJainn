@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuktaJainn.
-- 👀 I’m interested in evrything that is Data related.
+- 👀 I’m interested in evrything that's data related.
 - 🌱 I’m currently learning Data Analytics.
 - 📫 You can mail me at : jain.mukta20032002@gmail.com.
 
